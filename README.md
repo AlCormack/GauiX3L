@@ -58,5 +58,5 @@ I have added all the files for this in this GitHub project for all of you to use
 
 <img src="https://github.com/AlCormack/GauiX3L/blob/master/images/3DParts.jpeg" width="256">
 
-<img src="https://github.com/AlCormack/GauiX3L/blob/master/images/Finshed.jpeg" width="512">
+<img src="https://github.com/AlCormack/GauiX3L/blob/master/images/Finished.jpeg" width="512">
  
