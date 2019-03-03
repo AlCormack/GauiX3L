@@ -54,5 +54,7 @@ Now for some further slight optimisation. The tail was something that needed a b
 
 I have added all the files for this in this GitHub project for all of you to use.
 
+<img src="https://github.com/AlCormack/GauiX3L/blob/master/images/3DParts.jpg" width="256">
+
 
  
