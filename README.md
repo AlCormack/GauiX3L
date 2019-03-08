@@ -59,12 +59,12 @@ Now for some further slight optimisation. The tail was something that needed a b
 * gone to a smaller tail blade length
 
 The final setup is pieced together as follows:<br />
-<img src="https://github.com/AlCormack/GauiX3L/blob/master/images/AngleOfAttack.jpeg" width="512">
+<img src="https://github.com/AlCormack/GauiX3L/blob/master/images/AngleOfAttack.jpeg" width="512"><br />
 
 I have provided a jig to enable to holes to be drilled in the correct locations. The jog also forms a good template for the adaptor to be cut out of 1mm carbon fibre sheet:<br />
-<img src="https://github.com/AlCormack/GauiX3L/blob/master/images/Jig.jpeg" width="512">
-The adpaptor is mounted as follows:<br />
-<img src="https://github.com/AlCormack/GauiX3L/blob/master/images/Adaptor.jpeg" width="512">
+<img src="https://github.com/AlCormack/GauiX3L/blob/master/images/Jig.jpeg" width="512"><br />
+The adaptor is mounted as follows:<br />
+<img src="https://github.com/AlCormack/GauiX3L/blob/master/images/Adaptor.jpeg" width="512"><br />
 
 
 I have added all the files for this in this GitHub project for all of you to use. This includes [a pdf file](https://github.com/AlCormack/GauiX3L/blob/master/Fin%20Drawing%20v1.pdf) for the fin to be cut out of 1mm carbon fibre sheet. You can print this onto paper and cut it out to form a template or if you have a vinyl cutter I have added the [silhouette studio file](https://github.com/AlCormack/GauiX3L/blob/master/fin.studio3)  too.
