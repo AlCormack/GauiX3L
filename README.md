@@ -4,7 +4,7 @@
  
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/dyuTX_kXLzM/0.jpg)](http://www.youtube.com/watch?v=dyuTX_kXLzM "Gaui Speed X3L")
  
-After getting my Gaui R5, I got the bug for speed. The R5 is a fantastic heli but I was looking for something even smaller for quick trips to the field. As it obviously had to be a Gaui heli the choice was simplified as the X3L had a fuselage and would support a motor that was much larger than a 325-280mm heli would normally use. The next decision was two or three blades. Never had a three blade heli and have fancied one but also liked the idea of greater stability on a small size heil. So got the: 
+After getting my Gaui R5, I got the bug for speed. The R5 is a fantastic heli but I was looking for something even smaller for quick trips to the field. As it obviously had to be a Gaui heli the choice was simplified as the X3L had a fuselage and would support a motor that was much larger than a 325-280mm heli would normally use. The next decision was two or three blades. Never had a three blade heli and have fancied one but also liked the idea of greater stability on a small size heli. So got the: 
 
 * Gaui X3L Basic Kit 3 blade - X3L Basic Kit
 
@@ -30,7 +30,7 @@ Also to support the blades I added the:
 
 For esc I tried the Hobbywing 50 but the telemetry setup is not great on it as it required a j-log to get the info I needed on PWM, and head speed. It also had not current sensor, so a MUI50 was needed too. A lot of extra electronics to fit in a small heli. YGE came out with their telemetry line. So I took out the Hobbywing (it has now gone in a standard X3 since) and put in a Yge 65lvt esc. This outputs directly to the Jeti RX and has a current sensor built in. Really nice esc, that also has an anti-spark setup. I use 5mm bullets as there is not much space for connector choice and this allows the positive to go one side and the negative the other of the frame. Since its launch Scorpion has now added an 80amp Tribunus, and I have had great success with the 200amp version on my R5 (destroyed 2 other brand esc's previously). If this was out at the time I would have picked this as I am a huge fan of Georges, Tony and Scorpion as a whole, for all the fantastic support they provide in this hobby.
 
-For main blades I have tried the Rail 326's but they did not max out the esc even with a high pitch setup. I then tried the RotorTech 360mm 3 blade's. They were ok but I got a could of very bad pitch ups and the heli was not stable at high speed. I then ordered two pairs of 363mm XBlades and used three of them. They turned out to really nice at high velocity, high RPM(3650) and high pitch angles (15 deg). For the tail blades I am using the Switch 60mm blades.
+For main blades I have tried the Rail 326's but they did not max out the esc even with a high pitch setup. I then tried the RotorTech 360mm 3 blade's. They were ok but I got a couple of very bad pitch ups and the heli was not stable at high speed. I then ordered two pairs of 363mm XBlades and used three of them. They turned out to really nice at high velocity, high RPM(3650) and high pitch angles (15 deg). For the tail blades I am using the Switch 60mm blades.
 
 To get the head speed I wanted I needed a 14 tooth pinion. With a 5mm hole. Turned out this was not easy to find. Lynx had some end-of-line ones still in stock but they had the smaller 3mm hole. So ordered a bunch of them and got some 5mm drills and got my dad to use his lathe to drill out the centre. 
 
@@ -40,7 +40,7 @@ Getting the pitch of all three blades was not simple so ended up making my own t
 
 Given the very high loads on the main gears I use Dryfluid Gear on both the gears and thrusts.
 
-For flight packs I started with my favourite Optipowers but getting stock of them is really tricky. I took a shot at the new Turnigy Graphenes:
+For flight packs I started with my favourite OptiPowers but getting stock of them is really tricky. I took a shot at the new Turnigy Graphenes:
 
 * TURNIGY GRAPHENE 1500MAH 6S 65C LIPO
 
