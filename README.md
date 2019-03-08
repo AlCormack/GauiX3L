@@ -1,5 +1,7 @@
 # Gaui X3L Speed
  
+ <img src="https://github.com/AlCormack/GauiX3L/blob/master/images/x3l.jpg" width="800">
+ 
 After getting my Gaui R5, I got the bug for speed. The R5 is a fantastic heli but I was looking for something even smaller for quick trips to the field. As it obviously had to be a Gaui heli the choice was simplified as the X3L had a fuselage and would support a motor that was much larger than a 325-280mm heli would normally use. The next decision was two or three blades. Never had a three blade heli and have fancied one but also liked the idea of greater stability on a small size heil. So got the: 
 
 * Gaui X3L Basic Kit 3 blade - X3L Basic Kit
@@ -17,6 +19,8 @@ For servos I wanted to run a high voltage setup. As I was in Taiwan the little A
 For the motor there was only one choice. The monster Scorpion HK-3226. And to support the top of the motor shaft I added the: 
 
 * Engine second bearing mount(for X3L)   
+
+<img src="https://github.com/AlCormack/GauiX3L/blob/master/images/side.jpg" width="800">
 
 Also to support the blades I added the:
 
@@ -41,7 +45,7 @@ For flight packs I started with my favourite Optipowers but getting stock of the
 Amazingly they are incredible during a speed flight. Really shocked. The telemetry shows they keep their voltage even under huge load. One issue is that they are heavy but given how much power I have.. its not such a big deal.
 
 For the flybarless the choice was simple: 
-* BavarianDEMON 3SX with a Jeti Rex3 rx 
+* BavarianDEMON 3SX with a Jeti Rex3 rx (setup file is provided in the files above) 
 
 Given the high amp loads I have always had a worry about loosing power to the rx. So for safety I added a:
 * R2 3x25 buffer.
@@ -54,7 +58,16 @@ Now for some further slight optimisation. The tail was something that needed a b
 * gained sever kph in average pass speed
 * gone to a smaller tail blade length
 
-I have added all the files for this in this GitHub project for all of you to use.
+The final setup is pieced together as follows:
+<img src="https://github.com/AlCormack/GauiX3L/blob/master/images/AngleOfAttack.jpg" width="512">
+
+I have provided a jig to enable to holes to be drilled in the correct locations. The jog also forms a good template for the adaptor to be cut out of 1mm carbon fibre sheet:
+<img src="https://github.com/AlCormack/GauiX3L/blob/master/images/Jig.jpg" width="512">
+The adpaptor is mounted as follows:
+<img src="https://github.com/AlCormack/GauiX3L/blob/master/images/Adaptor.jpg" width="512">
+
+
+I have added all the files for this in this GitHub project for all of you to use. This includes [a pdf file](https://github.com/AlCormack/GauiX3L/blob/master/Fin Drawing v1.pdf) for the fin to be cut out of 1mm carbon fibre sheet. You can print this onto paper and cut it out to form a template or if you have a vinyl cutter I have added the [silhouette studio file](https://github.com/AlCormack/GauiX3L/blob/master/fin.studio3)  too.
 
 <img src="https://github.com/AlCormack/GauiX3L/blob/master/images/3DParts.jpeg" width="256">
 
