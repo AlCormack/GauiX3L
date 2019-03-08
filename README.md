@@ -1,6 +1,6 @@
 # Gaui X3L Speed
  
- <img src="https://github.com/AlCormack/GauiX3L/blob/master/images/x3l.jpg" width="800">
+ <img src="https://github.com/AlCormack/GauiX3L/blob/master/images/x3l.jpeg" width="800">
  
 After getting my Gaui R5, I got the bug for speed. The R5 is a fantastic heli but I was looking for something even smaller for quick trips to the field. As it obviously had to be a Gaui heli the choice was simplified as the X3L had a fuselage and would support a motor that was much larger than a 325-280mm heli would normally use. The next decision was two or three blades. Never had a three blade heli and have fancied one but also liked the idea of greater stability on a small size heil. So got the: 
 
@@ -20,7 +20,7 @@ For the motor there was only one choice. The monster Scorpion HK-3226. And to su
 
 * Engine second bearing mount(for X3L)   
 
-<img src="https://github.com/AlCormack/GauiX3L/blob/master/images/side.jpg" width="800">
+<img src="https://github.com/AlCormack/GauiX3L/blob/master/images/side.jpeg" width="800">
 
 Also to support the blades I added the:
 
