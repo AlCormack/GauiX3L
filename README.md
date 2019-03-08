@@ -45,7 +45,7 @@ For flight packs I started with my favourite Optipowers but getting stock of the
 Amazingly they are incredible during a speed flight. Really shocked. The telemetry shows they keep their voltage even under huge load. One issue is that they are heavy but given how much power I have.. its not such a big deal.
 
 For the flybarless the choice was simple: 
-* BavarianDEMON 3SX with a Jeti Rex3 rx (setup file is provided in the files above) 
+* BavarianDEMON 3SX with a Jeti Rex3 rx ([setup file](https://github.com/AlCormack/GauiX3L/blob/master/BD3SX/20190209%20Gaui%20X3L.hcx)) 
 
 Given the high amp loads I have always had a worry about loosing power to the rx. So for safety I added a:
 * R2 3x25 buffer.
@@ -58,12 +58,12 @@ Now for some further slight optimisation. The tail was something that needed a b
 * gained sever kph in average pass speed
 * gone to a smaller tail blade length
 
-The final setup is pieced together as follows:
+The final setup is pieced together as follows:<br />
 <img src="https://github.com/AlCormack/GauiX3L/blob/master/images/AngleOfAttack.jpeg" width="512">
 
-I have provided a jig to enable to holes to be drilled in the correct locations. The jog also forms a good template for the adaptor to be cut out of 1mm carbon fibre sheet:
+I have provided a jig to enable to holes to be drilled in the correct locations. The jog also forms a good template for the adaptor to be cut out of 1mm carbon fibre sheet:<br />
 <img src="https://github.com/AlCormack/GauiX3L/blob/master/images/Jig.jpeg" width="512">
-The adpaptor is mounted as follows:
+The adpaptor is mounted as follows:<br />
 <img src="https://github.com/AlCormack/GauiX3L/blob/master/images/Adaptor.jpeg" width="512">
 
 
