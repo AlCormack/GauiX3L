@@ -49,6 +49,8 @@ Amazingly they are incredible during a speed flight. Really shocked. The telemet
 For the flybarless the choice was simple: 
 * BavarianDEMON 3SX with a Jeti Rex3 rx ([setup file](https://github.com/AlCormack/GauiX3L/blob/master/BD3SX/20190209%20Gaui%20X3L.hcx)) 
 
+There si also my [speed GPS](https://github.com/AlCormack/SpeedGPS) and I use the [MHSFA speed application](https://github.com/AlCormack/JetiLua/tree/master/MHSFAApp) for the Jeti.
+
 Given the high amp loads I have always had a worry about loosing power to the rx. So for safety I added a:
 * R2 3x25 buffer.
 
