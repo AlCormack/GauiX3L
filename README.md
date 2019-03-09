@@ -55,7 +55,7 @@ To measure the average speed I added my [speed GPS](https://github.com/AlCormack
 Given the high amp loads I have always had a worry about loosing power to the rx. So for safety I added a:
 * R2 3x25 buffer.
 
-The only problem that I have had so far is the radius arm breaking (on the three blade there is only one, unlike the two on the two blade). This had done over 100 flights. So now I am changing it every 50 flights (and the belt every 100.. make sure you use some silicon spray on the belt to help keep static down)
+The only problem that I have had so far is the radius arm breaking (on the three blade there is only one, unlike the two on the two blade). This had done over 100 flights. So now I am changing it every 50 flights (and the belt every 100.. make sure you use some silicon spray on the belt to help keep static down)<br />
 <img src="https://github.com/AlCormack/GauiX3L/blob/master/images/BrokenLink.jpg" width="256">
 
 Now for some further slight optimisation. The tail was something that needed a bit of work. The gain I had to run to keep it all straight was more in the realms of a 3D setup (49 on the 3SX). Whereas on my R5 it was about 10 points less. The proper speed fuse helps on the R5 but also on my V1 the tail is adjustable, so like the big 700 speed machines you can build in some angle of attack on the rear fin. So out came the CAD software (Fusion 360 for me) and the 3D printer. I made a custom tail setup that has adjustable wedges to build in some tail wing angle. I have ended up using a 10degree wedge setup and have:
