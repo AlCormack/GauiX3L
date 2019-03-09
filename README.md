@@ -2,14 +2,14 @@
  
  <img src="https://github.com/AlCormack/GauiX3L/blob/master/images/x3l.jpeg" width="800"><br />
  
-A little video of it during a speed pass:
+A little video of it during a speed pass:<br />
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/dyuTX_kXLzM/0.jpg)](http://www.youtube.com/watch?v=dyuTX_kXLzM "Gaui Speed X3L")
  
 After getting my Gaui R5, I got the bug for speed. The R5 is a fantastic heli but I was looking for something even smaller for quick trips to the field. As it obviously had to be a Gaui heli the choice was simplified as the X3L had a fuselage and would support a motor that was much larger than a 325-380mm heli would normally use. The next decision was two or three blades. Never had a three blade heli and have fancied one but also liked the idea of greater stability on a small size heli. So got the: 
 
 * Gaui X3L Basic Kit 3 blade - X3L Basic Kit
 
-The tail is never highly loaded on a speed heli and the 3 blade tail setup would just cause more drag therefore reduce the max speed. So ordered the required 2 blade tail parts:
+The tail is never highly loaded on a speed heli and the 3 blade tail setup would just cause more drag and therefore reduce the max speed. So ordered the required 2 blade tail parts:
 
 * X3 Tail Pitch Slider Set
 * X3 Tail Rotor Grip Assembly
@@ -55,7 +55,7 @@ To measure the average speed I added my [speed GPS](https://github.com/AlCormack
 Given the high amp loads I have always had a worry about loosing power to the rx. So for safety I added a:
 * R2 3x25 buffer.
 
-The only problem that I have had so far is the radius arm breaking (on the three blade there is only one, unlike the two on the two blade). This had done over 100 flights. So now I am changing it every 50 flights (and the belt every 100)
+The only problem that I have had so far is the radius arm breaking (on the three blade there is only one, unlike the two on the two blade). This had done over 100 flights. So now I am changing it every 50 flights (and the belt every 100.. make sure you use some silicon spray on the belt to help keep static down)
 <img src="https://github.com/AlCormack/GauiX3L/blob/master/images/BrokenLink.jpg" width="256">
 
 Now for some further slight optimisation. The tail was something that needed a bit of work. The gain I had to run to keep it all straight was more in the realms of a 3D setup (49 on the 3SX). Whereas on my R5 it was about 10 points less. The proper speed fuse helps on the R5 but also on my V1 the tail is adjustable, so like the big 700 speed machines you can build in some angle of attack on the rear fin. So out came the CAD software (Fusion 360 for me) and the 3D printer. I made a custom tail setup that has adjustable wedges to build in some tail wing angle. I have ended up using a 10degree wedge setup and have:
