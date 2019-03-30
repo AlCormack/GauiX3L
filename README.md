@@ -60,7 +60,7 @@ The only problem that I have had so far is the radius arm breaking (on the three
 
 Now for some further slight optimisation. The tail was something that needed a bit of work. The gain I had to run to keep it all straight was more in the realms of a 3D setup (49 on the 3SX). Whereas on my R5 it was about 10 points less. The proper speed fuse helps on the R5 but also on my V1 the tail is adjustable, so like the big 700 speed machines you can build in some angle of attack on the rear fin. So out came the CAD software (Fusion 360 for me) and the 3D printer. I made a custom tail setup that has adjustable wedges to build in some tail wing angle. I have ended up using a 10degree wedge setup and have:
 * lost about 10 points in the tail gain
-* gained sever kph in average pass speed
+* gained several kph in average pass speed
 * gone to a smaller tail blade length
 
 The final setup is pieced together as follows:<br />
